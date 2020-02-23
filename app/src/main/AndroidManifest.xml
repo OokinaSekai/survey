@@ -9,6 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".activity_thx"></activity>
+        <activity android:name=".activity_12th" />
+        <activity android:name=".activity_11th" />
+        <activity android:name=".activity_10th" />
+        <activity android:name=".activity_9th" />
+        <activity android:name=".activity_8th" />
+        <activity android:name=".activity_7th" />
+        <activity android:name=".activity_6th" />
+        <activity android:name=".activity_4th" />
+        <activity android:name=".activity_5th" />
+        <activity android:name=".activity_1st" />
+        <activity android:name=".activity_3rd" />
+        <activity android:name=".activity_2nd" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
