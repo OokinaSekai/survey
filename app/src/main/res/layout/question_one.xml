@@ -31,7 +31,7 @@
         />
 
     <RadioGroup
-        android:id="@+id/RG"
+        android:id="@+id/rg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv2"
@@ -99,7 +99,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="NEXT"
-        android:layout_below="@+id/RG"
+        android:layout_below="@+id/rg"
         android:layout_marginTop="53dp"
         android:textSize="25sp"
         android:textColor="#000000"

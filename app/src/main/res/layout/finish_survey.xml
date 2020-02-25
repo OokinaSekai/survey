@@ -43,7 +43,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginHorizontal="20dp"
         android:background="@color/colorPrimary"
-        android:text="FININSH"
+        android:text="THX"
         android:textColor="#000000"
         android:textSize="20sp"
         android:onClick="clickThx"

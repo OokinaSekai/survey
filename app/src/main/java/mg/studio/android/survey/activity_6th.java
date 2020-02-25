@@ -28,6 +28,8 @@ public class activity_6th extends AppCompatActivity {
             ts.show();
         }
         else {
+            transam ta=(transam) getApplication();
+            ta.str[5]=c;
             Intent intent = new Intent();
             intent.setClass(activity_6th.this, activity_7th.class);
             startActivity(intent);
