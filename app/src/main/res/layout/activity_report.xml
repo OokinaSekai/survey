@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="question1:"
         android:textSize="20sp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="4dp"
         android:layout_marginLeft="30dp"
          />
     <TextView
@@ -279,6 +279,11 @@
         android:layout_marginTop="12dp"
         />
 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="vertical">
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -292,6 +297,8 @@
         android:textSize="20sp"
         android:onClick="clickend"
         android:layout_marginTop="12dp"
+        android:layout_marginBottom="20dp"
         />
+    </LinearLayout>
 </RelativeLayout>
 

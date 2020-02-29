@@ -76,6 +76,11 @@
             android:textSize="22sp" />
     </RadioGroup>
 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="vertical">
     <Button
         android:id="@+id/next"
         android:layout_width="match_parent"
@@ -88,7 +93,9 @@
         android:layout_marginHorizontal="10dp"
         android:background="@color/colorPrimary"
         android:onClick="btnClick"
+        android:layout_marginBottom="20dp"
         />
+    </LinearLayout>
     <!-- END    : Your code should be within this block -->
 
 </LinearLayout>

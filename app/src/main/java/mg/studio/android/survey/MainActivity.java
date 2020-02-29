@@ -1,14 +1,17 @@
 package mg.studio.android.survey;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
+import java.io.File;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -19,10 +22,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.welcome);
         MainActivity.activityList.add(this);
+
     }
 
     public void clickWel(View v)
     {
+
         CheckBox ckOK= (CheckBox) findViewById(R.id.cb);
         if(ckOK.isChecked())
         {
