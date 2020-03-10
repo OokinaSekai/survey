@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         if(ckOK.isChecked())
         {
             Intent intent = new Intent();
-            intent.setClass(MainActivity.this, activity_1st.class);
+            intent.setClass(MainActivity.this, my_layout.class);
             startActivity(intent);
 
         }
