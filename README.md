@@ -10,5 +10,6 @@ The app now could do:
 	create the whole survey as the content of usable json file
 	send result json file to web server when the survey is finished
 	at the end, users must finish a gesture-lock to quit, and the password which also in json file will be shown on the screen
+
 The app maybe would do:
 	edit survey and create json file at local without wen server.
