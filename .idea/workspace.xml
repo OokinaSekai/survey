@@ -10,7 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ce1556-f56a-4338-9c43-0b73a510c9f5" name="Default Changelist" comment="" />
+    <list default="true" id="beede4a5-934d-4a49-ab9d-635e8ced02ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,12 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -37,33 +42,33 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>60</find>
-      <find>RG</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/survey" />
   </component>
-  <component name="ProjectId" id="1YurzxH38pF6lnMTPH9XfPHPILM" />
+  <component name="ProjectId" id="1ZCsurc2Sw9YtIPQLrPLkESdmmv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-02-29T12:35:30.588Z" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="447235ee" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-19T01:53:10.398Z" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.xch.scanzxing" />
+    </key>
     <key name="android.template.packageName">
-      <recent name="mg.studio.android.survey" />
+      <recent name="com.example.xch.scanzxing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.example.xch.scanzxing" />
+      <recent name="com.example.xch.scanzxing.zxing" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Android\Application\survey-master\app\src\main\res\drawable" />
+      <recent name="C:\Users\future\Desktop\ScanZxing\app\src\main\res\drawable" />
+      <recent name="C:\Users\future\Desktop\ScanZxing\app\src\main\res\layout" />
+      <recent name="C:\Users\future\Desktop\ScanZxing\app\src\main\java\com\example\xch\scanzxing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,11 +148,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82ce1556-f56a-4338-9c43-0b73a510c9f5" name="Default Changelist" comment="" />
-      <created>1581480336728</created>
+      <changelist id="beede4a5-934d-4a49-ab9d-635e8ced02ea" name="Default Changelist" comment="" />
+      <created>1584354636508</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581480336728</updated>
+      <updated>1584354636508</updated>
     </task>
     <servers />
   </component>
@@ -161,10 +166,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
   </component>
 </project>
